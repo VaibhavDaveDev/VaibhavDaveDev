@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram"/></a>
 <!--   Twitter -->
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"/></a>
+   <!--   Resume -->
+<a href="https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
+</a>
 </div>
 <h3 align="center">I'm Vaibhav Dave, currently pursuing a Bachelor's degree in Computer Science at GSFC University. As a developer, I specialize in Python, Java, and JavaScript, with a keen interest in AI/ML. Eager to contribute to open source projects and communities in software development.</h3>
 
@@ -19,6 +23,7 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **vaibhavprajeshchandradave@gmail.com**
+- 📄 [Download My Resume](https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
