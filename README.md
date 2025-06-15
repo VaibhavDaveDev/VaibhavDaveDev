@@ -12,7 +12,7 @@
 <!--   Twitter -->
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"/></a>
    <!--   Resume -->
-<a href="https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume" target="_blank">
+<a href="https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume-2025" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
 </a>
 </div>
@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **vaibhavprajeshchandradave@gmail.com**
-- 📄 [Download My Resume](https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume)
+- 📄 [Download My Resume](https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume-2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
