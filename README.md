@@ -2,6 +2,8 @@
    <img src="https://github.com/VaibhavDaveDev/VaibhavDaveDev/blob/main/Banner.png?raw=true" alt="Banner" width="100%" height="auto">
 </div>
 <div align="center">
+   <!-- Portfolio -->
+<a href="https://vaibhavdave-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
 <!--   LinkedIN -->
 <a href="https://www.linkedin.com/in/vaibhavdavedev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
 <!--   Leetcode -->
@@ -27,6 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://vaibhavdave-portfolio.pages.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Portfolio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vaibhavdavedev/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1);" /></a>
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
