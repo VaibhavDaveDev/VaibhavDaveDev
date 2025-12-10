@@ -14,7 +14,7 @@
 <!--   Twitter -->
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"/></a>
    <!--   Resume -->
-<a href="https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume-2025" target="_blank">
+<a href="https://vaibhavdave-portfolio.pages.dev/resume/Vaibhav_Dave_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
 </a>
 </div>
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **vaibhavprajeshchandradave@gmail.com**
-- 📄 [Download My Resume](https://rxresu.me/vaibhavdavedev/vaibhav-dave-resume-2025)
+- 📄 [Download My Resume](https://vaibhavdave-portfolio.pages.dev/resume/Vaibhav_Dave_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -101,14 +101,7 @@
 <br/>
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
-
 <div align="center">
-<!--   GitHub Stats
-  <a href="https://github.com/VaibhavDaveDev">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=VaibhavDaveDev&show_icons=true&theme=react&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="github stats" /></a> -->
-  <!-- Top Languages -->
-  <a href="https://github.com/VaibhavDaveDev">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavDaveDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=ffffff&text_color=ffffff&icon_color=DD2727" alt="top languages" />
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VaibhavDaveDev&theme=highcontrast&hide_border=false" />
 </div>
 <br/>
