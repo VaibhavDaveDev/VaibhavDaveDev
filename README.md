@@ -1,9 +1,9 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/VaibhavDaveDev/VaibhavDaveDev/main/banner.gif" alt="Banner" width="100%">
+   <img src="https://raw.githubusercontent.com/VaibhavDaveDev/VaibhavDaveDev/refs/heads/main/banner.gif" alt="Banner" width="100%">
 </div>
 <div align="center">
    <!-- Portfolio -->
-<a href="https://vaibhavdave-portfolio.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
+<a href="https://vaibhavdave.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
 <!--   LinkedIN -->
 <a href="https://www.linkedin.com/in/vaibhavdavedev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
 <!--   Leetcode -->
@@ -14,7 +14,7 @@
 <!--   Twitter -->
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"/></a>
    <!--   Resume -->
-<a href="https://vaibhavdave-portfolio.pages.dev/resume/Vaibhav_Dave_Resume.pdf" target="_blank">
+<a href="https://vaibhavdave.pages.dev/resume/Vaibhav_Dave_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
 </a>
 </div>
