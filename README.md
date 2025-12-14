@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/VaibhavDaveDev/VaibhavDaveDev/blob/main/Banner.png?raw=true" alt="Banner" width="100%" height="auto">
+   <img src="https://raw.githubusercontent.com/VaibhavDaveDev/VaibhavDaveDev/main/banner.gif" alt="Banner" width="100%">
 </div>
 <div align="center">
    <!-- Portfolio -->
