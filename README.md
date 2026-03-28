@@ -2,19 +2,14 @@
    <img src="https://raw.githubusercontent.com/VaibhavDaveDev/VaibhavDaveDev/main/banner.gif" alt="Banner" width="100%">
 </div>
 <div align="center">
-   <!-- Portfolio -->
-<a href="https://vaibhavdave.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
-<!--   LinkedIN -->
+   <a href="https://vaibhavdave.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/vaibhavdavedev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
-<!--   Leetcode -->
-  <a href="https://leetcode.com/Vaibhav_Dave/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode"/></a>
-<!--   Instagram -->
+<a href="https://leetcode.com/Vaibhav_Dave/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode"/></a>
+<a href="https://codolio.com/profile/VaibhavDaveDev" target="_blank"><img src="https://img.shields.io/static/v1?message=Codolio&label=&color=1e1e1e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codolio"/></a>
 <a href="https://www.instagram.com/vaibhadave.dev?igsh=cjliNWkzMmR5b3Nv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram"/></a>
-<!--   Twitter -->
 <a href="https://x.com/VaibhavDaveDev?t=C7S_Ts39YN35R6O9xYFZ7Q&s=09" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"/></a>
-   <!--   Resume -->
-<a href="https://vaibhavdave.pages.dev/resume/Vaibhav_Dave_Resume.pdf" target="_blank">
+   <a href="https://vaibhavdave.pages.dev/resume/Vaibhav_Dave_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
 </a>
 </div>
@@ -38,6 +33,7 @@
 <a href="https://www.instagram.com/vaibhadave.dev?igsh=cjliNWkzMmR5b3Nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavdave.ig?igsh=zghlmhpvngrkm2x5" height="30" width="40" /></a>
 <a href="https://leetcode.com/Vaibhav_Dave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav-dave" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaibhavdavedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vaibhavdavedev" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/VaibhavDaveDev" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/code.png" alt="Codolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages & Core Development:</h3>
@@ -93,6 +89,6 @@
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VaibhavDaveDev&theme=highcontrast&hide_border=false" />
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=VaibhavDaveDev&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <br/>
