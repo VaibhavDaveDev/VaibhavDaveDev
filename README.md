@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume"/>
 </a>
 </div>
-<h3 align="center">Hi👋🏻 I'm Vaibhav Dave, currently pursuing a Bachelor's degree in Computer Science at GSFC University. As a developer, I specialize in Python, Java, and JavaScript, with a keen interest in AI/ML. Eager to contribute to open source projects and communities.</h3>
+<h3 align="center">Hi👋🏻 I am Vaibhav, a software developer based in Gujarat. I graduated with my B.Tech in Computer Science in 2025, and I spend my time building scalable web platforms and applied machine learning systems. I am always looking for ways to make systems faster, more reliable, and easier for people to use. Eager to contribute to open source projects and communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdavedev&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdavedev" /> </p>
 
