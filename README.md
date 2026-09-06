@@ -3,6 +3,8 @@
 </div>
 <div align="center">
    <a href="https://vaibhavdave.pages.dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"/></a>
+   <a href="https://github.com/sponsors/VaibhavDaveDev" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Sponsor&logo=githubsponsors&label=&color=EA4AAA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Sponsor"/></a>
 <a href="https://www.linkedin.com/in/vaibhavdavedev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/Vaibhav_Dave/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode"/></a>
 <a href="https://codolio.com/profile/VaibhavDaveDev" target="_blank"><img src="https://img.shields.io/static/v1?message=Codolio&label=&color=1e1e1e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codolio"/></a>
